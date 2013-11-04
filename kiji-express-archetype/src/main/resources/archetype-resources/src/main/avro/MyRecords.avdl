@@ -1,0 +1,7 @@
+/** Example avro protocol. */
+protocol MyRecords {
+  /** Example record. */
+  record ExampleRecord {
+    string id;
+  }
+}

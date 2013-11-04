@@ -21,6 +21,12 @@
         <include>**/*.ddl</include>
       </includes>
     </fileSet>
+    <fileSet filtered="true" encoding="UTF-8">
+      <directory>src/main/avro</directory>
+      <includes>
+        <include>**/*.avdl</include>
+      </includes>
+    </fileSet>
     <fileSet encoding="UTF-8">
       <directory></directory>
       <includes>
