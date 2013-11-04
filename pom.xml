@@ -63,6 +63,7 @@
 
   <modules>
     <module>kiji-express</module>
+    <module>kiji-express-archetype</module>
   </modules>
 
   <build>
@@ -84,7 +85,6 @@
       </plugins>
     </pluginManagement>
   </build>
-
 
   <repositories>
     <!-- Kiji repositories -->
@@ -117,5 +117,4 @@
     <url>scm:git:git@github.com:kijiproject/kiji-express.git</url>
     <developerConnection>scm:git:git@github.com:kijiproject/kiji-express.git</developerConnection>
   </scm>
-
 </project>
